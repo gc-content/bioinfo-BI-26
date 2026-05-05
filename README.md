@@ -7,7 +7,7 @@ Bioinformatyka, I rok
 | Lab | Data | Opis | Zadania |
 | :---: | --- | --- | :---: |
 | **08** | 28.04.2026 | Matryce podstawień | [lab08](./labs/lab08.md) |
-| **09** | 05.05.2026 | Wyszukiwanie sekwencji podobnych (BLAST) | |
+| **09** | 05.05.2026 | Wyszukiwanie sekwencji podobnych (BLAST) |  [lab09](./labs/lab09.md)  |
 | **10** | 12.05.2026 | Przyrównywanie wielu sekwencji (MSA) |  |
 | **11** | 19.05.2026 | Adnotacje genomowe i analiza funkcjonalna |  |
 | **12** | 26.05.2026 | Przeglądarki genomowe |  |
