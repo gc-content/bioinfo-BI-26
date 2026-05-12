@@ -51,7 +51,7 @@ Korzystając z serwisów T-COFFEE i MAFFT (<a href="https://www.ebi.ac.uk/Tools/
 
 
 ## Zad. 4
-W pliku [tata.fasta](../files/tata.fasta) znajdują się sekwencje fragmentów promotora odpowiedzialne za przyłączanie czynnika transkrypcyjnego. Wykorzystując program Clustal Omega (ustaw `OUTPUT FORMAT` na `ClustalW`) i T-COFFEE wykonaj przyrównanie tych sekwencji. Uzyskane przyrównanie przedstaw graficznie za pomocą programu WebLogo (<a href="http://weblogo.berkeley.edu/logo.cgi">http://weblogo.berkeley.edu/logo.cgi</a>).
+W pliku [tata.fasta](../files/tata.fasta) znajdują się sekwencje fragmentów promotora odpowiedzialne za przyłączanie czynnika transkrypcyjnego. Wykorzystując program Clustal Omega (ustaw `OUTPUT FORMAT` na `ClustalW`) i T-COFFEE wykonaj przyrównanie tych sekwencji. Uzyskane przyrównanie przedstaw graficznie za pomocą programu WebLogo (<a href="http://weblogo.berkeley.edu/create.cgi">http://weblogo.berkeley.edu/create.cgi</a>).
 
 1. Ile dopasowanych fragmentów można zidentyfikować na otrzymanych logotypach graficznych? 
 2. Który program zidentyfikował kasetę Pribnowa (*TATA box*) - sekwencję `TATAAT`?
