@@ -1,10 +1,10 @@
 # Przyrównanie wielu sekwencji (MSA)
 
 ## Zad. 1 
-W pliku [ube.fasta](../files/ube.fasta) znajdują się sekwencje białkowe aktywnego enzymu koniugującego ubikwitynę pochodzące z wielu organizmów. Korzystając z programu ClustalOmega (<a href="http://www.ebi.ac.uk/Tools/msa/">http://www.ebi.ac.uk/Tools/msa/</a>) wykonaj ich przyrównanie.
+W pliku [ube.fasta](../files/ube.fasta) znajdują się sekwencje białkowe aktywnego enzymu koniugującego ubikwitynę pochodzące z wielu organizmów. Korzystając z programu ClustalOmega (<a href="https://www.ebi.ac.uk/jdispatcher/msa/">https://www.ebi.ac.uk/jdispatcher/msa</a>) wykonaj ich przyrównanie.
 
 1. Co oznaczają gwiazdki (`*`), dwukropki (`:`) i kropki (`.`) w otrzymanym przyrównaniu?
-   > Wskazówka: [Clustal Omega FAQ](https://www.ebi.ac.uk/seqdb/confluence/display/THD/Help+-+Clustal+Omega+FAQ)
+   > Wskazówka: [Clustal Omega FAQ](https://ebi-biows.gitdocs.ebi.ac.uk/documentation/faqs/clustal/)
 2. Wypisz aminokwasy, które są całkowicie zachowane u wszystkich organizmów.
 3. Jaka może być przyczyna zachowania tych aminokwasów we wszystkich sekwencjach?
 4. Podaj procent identyczności sekwencji enzymu drożdżowego `UBC6_YEAST` (`P33296)` i sekwencji enzymu królika `UB2R2_RABIT` (`Q29503`)?
@@ -44,7 +44,7 @@ clustalo -i myoglobins.fasta --outfmt=clu -o myoglobins.aln
 
 
 ## Zad. 3
-Korzystając z serwisów T-COFFEE i MAFFT (<a href="https://www.ebi.ac.uk/Tools/msa/">https://www.ebi.ac.uk/Tools/msa/</a>) przyrównaj sekwencje mioglobin z poprzedniego zadania. 
+Korzystając z serwisów T-COFFEE i MAFFT (<a href="https://www.ebi.ac.uk/jdispatcher/msa/">https://www.ebi.ac.uk/jdispatcher/msa</a>) przyrównaj sekwencje mioglobin z poprzedniego zadania. 
 
 1. Umieść wyniki w sprawozdaniu. 
 2. Opisz krótko czym różnią się przyrównania uzyskane programem ClustalOmega, T-COFFEE i MAFFT.
