@@ -10,7 +10,7 @@ Bioinformatyka, I rok
 | **09** | 05.05.2026 | Wyszukiwanie sekwencji podobnych (BLAST) |  [lab09](./labs/lab09.md)  |
 | **10** | 12.05.2026 | Przyrównywanie wielu sekwencji (MSA) |  [lab10](./labs/lab10.md)  |
 | **11** | 19.05.2026 | Adnotacje genomowe i analiza funkcjonalna | [lab11](./labs/lab11.md)  |
-| **12** | 26.05.2026 | Przeglądarki genomowe |  |
+| **12** | 26.05.2026 | Przeglądarki genomowe | [lab12](./labs/lab12.md) |
 | **13** | 02.06.2026 | Analiza filogenetycza |  |
 | **14** | 09.06.2026 | Podstawy NGS |  |
 
